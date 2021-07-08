@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meg</h1>
 <h3 align="center">A undergraduate studying Computer Science and Mathematics at the University of St Andrews</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megbriers" alt="megbriers" /></a> </p>
-
 - 🔭 I’m currently working on **research sponsored by the Royal Astronomy Society to look into the details of the 1871 solar eclipse expedition**
 
 - 🌱 I’m currently learning **some more python, and some natural language processing!**
