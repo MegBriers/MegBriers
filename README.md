@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meg</h1>
-<h3 align="center">A undergraduate studying Computer Science and Mathematics at St Andrews</h3>
+<h3 align="center">A undergraduate studying Computer Science and Mathematics at the University of St Andrews</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megbriers" alt="megbriers" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **some more python, and some natural language processing!**
 
-- 📝 I regularly write articles on [https://www.notion.so/BLOG-8c4b9c71b01b43fc816c741f071892c2](https://www.notion.so/BLOG-8c4b9c71b01b43fc816c741f071892c2)
+- 📝 I regularly write articles on https://www.notion.so/BLOG-8c4b9c71b01b43fc816c741f071892c2
 
 - 📫 How to reach me **mrb21@st-andrews.ac.uk**
 
