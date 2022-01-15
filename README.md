@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **some more python, and some natural language processing!**
 
-- 📝 I regularly write articles on https://www.notion.so/BLOG-8c4b9c71b01b43fc816c741f071892c2
-
 - 📫 How to reach me **mrb21@st-andrews.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
