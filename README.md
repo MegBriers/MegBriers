@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meg</h1>
 <h3 align="center">An undergraduate studying Computer Science and Mathematics at the University of St Andrews</h3>
 
-- 🔭 I’ve recently finished  **research sponsored by the Royal Astronomy Society to look into the details of the 1871 solar eclipse expedition**
+- 🔭 I'm currently working on using Wikipedia data to try and evaluate how well represented networks of 19th century mathematicians are on the articles produced about them. 
 
 - 🌟 I'm interested in trying to combine my interest in the history of science and my technology skills to create fun and interesting ways to communicate history!
 
