@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meg</h1>
+<h3 align="center">Hi 👋, I'm Meg</h1>
 <h3 align="center">An undergraduate studying Computer Science and Mathematics at the University of St Andrews</h3>
 
 - 🔭 I'm currently working on using Wikipedia data to try and evaluate how well represented networks of 19th century mathematicians are on the articles produced about them. 
