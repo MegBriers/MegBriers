@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Meg</h1>
-<h3 align="center">An undergraduate studying Computer Science and Mathematics at the University of St Andrews</h3>
+<h3 align="center">A postgrad studying History of Science at the University of Cambridge</h3>
 
 - 🔭 I'm currently working on using Wikipedia data to try and evaluate how well represented networks of 19th century mathematicians are on the articles produced about them. 
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **some more python, and some natural language processing!**
 
-- 📫 How to reach me **mrb21@st-andrews.ac.uk**
+- 📫 How to reach me **mrb97@cam.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
